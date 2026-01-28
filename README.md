@@ -54,3 +54,6 @@ buildozer android debug
 
 ## 📄 License
 MIT License
+
+## 🔄 Build Status
+[![Build Android APK](https://github.com/Lastic56/LasticVideoDownloader/actions/workflows/build-android.yml/badge.svg)](https://github.com/Lastic56/LasticVideoDownloader/actions/workflows/build-android.yml)
